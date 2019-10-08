@@ -4,7 +4,7 @@
 在**Poor Man's T-SQL Formatter**的基础上进行了一些改动（主要为大数据ETL所涉及到的SQL/HQL支持，字段对齐等等），以便满足我们自己的需求。
 
 ***
-**源码已开源。github地址：**https://github.com/baiiiiiii/SqlFormat
+**源码已开源。github地址**：https://github.com/baiiiiiii/SqlFormat
 ***
 
 ### 使用.NET框架
